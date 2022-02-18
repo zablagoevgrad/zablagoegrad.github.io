@@ -1,0 +1,23 @@
+.intro {
+	width: 100vw;
+	height: 100vh;
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #000;
+	display: grid;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    background: rgb(81 233 151);
+	background: linear-gradient(325deg, rgb(156 161 255) 0%, rgb(81 233 151) 100%);
+    line-height: 30px;
+}
+
+div {
+	padding: 20px;
+}
+
+img {
+	max-width: 200px;
+	padding-bottom: 20px;
+}
